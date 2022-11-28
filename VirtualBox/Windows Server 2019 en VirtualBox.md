@@ -31,20 +31,20 @@ Iniciamos la maquina virtual, se iniciará la instalación.
 
 Configuraremos el idioma, el tipo de teclado y el formato de Fecha/Hora e instalamos. Te preguntará el sistema operativo. Yo usaré el **Windows Server 2019 Datacenter Evaluation (Expriencia de...)** de x64 a fecha de 07/09/2019
 
-![imagen1](/imagenes/2019/1.JPG)
+![](https://github.com/sqrl13/CursoAzure/blob/main/VirtualBox/imagenes/2019/1.JPG)
 
 
 Después de aceptar los terminos y condiciones, tendremos que escoger el tipo de instalación que queremos. En mi caso optaré por la personalizada ya que instalaremos el Windows Server desde cero. 
 
 Luego seleccionamos el disco duro donde se realizará la instalación 
 
-![imagen2](/imagenes/2019/2.JPG)
+![](https://github.com/sqrl13/CursoAzure/blob/main/VirtualBox/imagenes/2019/2.JPG)
 
 Posteriormente, se iniciará la instalación de Windows Server 2019, este proceso puede demorar algún tiempo dependiendo de los recursos que se le dio a la máquina virtual
 
 Una vez que concluya las tareas le aparecerá esta pantallla 
 
-![imagen3](/imagenes/2019/3.JPG)
+![imagen3](https://github.com/sqrl13/CursoAzure/blob/main/VirtualBox/imagenes/2019/3.JPG)
 
 Configuramos el usuario Administrador y finalizamos. 
 
